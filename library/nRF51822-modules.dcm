@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HRM1017
+D HRM1017 BLE module based on nRF51822 SoC
+K HRM1017 BLE nRF51822 Hoshiden
+F http://doc.switch-science.com/datasheets/HRM1017_AN_ble_module_Rev3_user_guide_jp_v010.pdf
+$ENDCMP
+#
+$CMP MDBT40(P)
+D MDBT40/MDBT40P BLE module based on nRF51822 SoC
+K MDBT40 MDBT40P BLE nRF51822 RAYTAC
+F http://www.raytac.com/download/MDBT40/MDBT40%20spec-Version%20A4.pdf
+$ENDCMP
+#
+#End Doc Library
